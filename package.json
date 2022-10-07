@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.13.3",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.12.1"
+  }
+}
